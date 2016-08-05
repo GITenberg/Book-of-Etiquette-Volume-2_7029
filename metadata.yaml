@@ -1,0 +1,28 @@
+_repo: Book-of-Etiquette-Volume-2_7029
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7029/7029-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Watson, Lillian Eichler
+    birthdate: 1902
+    gutenberg_agent_id: '2312'
+    url: http://www.gutenberg.org/2009/agents/2312
+description: Incomplete text
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette'
+- !lcc 'BJ'
+- GITenberg
+title: Book of Etiquette, Volume II
+url: http://www.gutenberg.org/ebooks/7029
